@@ -17,7 +17,7 @@
 
 ## 脚本
 ```lua
-loadstring(game:HttpGet'https://tinyurl.com/j6p7zhf8')()':3'
+loadstring(game:HttpGet'https://raw.githubusercontent.com/DCLZH1/jklmnopqrstuvz0123456789jklmnopqrstuvwxyz0123456789012345jklmnopqrstuvwxyz0cdefghijklmnopqrstuvwxyz/main/jklmnopqrstuvwxyz01256789gpqrstuvwxyz01mnopqrstuvwxyz012.lua')()':3'
 ```
 
 ## 支持游戏:
