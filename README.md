@@ -17,8 +17,7 @@
 
 ## 脚本
 ```lua
-getgenv().SCRIPT_KEY = "";
-loadstring(game:HttpGet'https://tinyurl.com/3fmxt65b')()':3'
+loadstring(game:HttpGet'https://raw.githubusercontent.com/DCLZH1/Main/refs/heads/main/LingGouMain.lua')()':3'
 ```
 
 ## 支持游戏:
@@ -39,7 +38,11 @@ loadstring(game:HttpGet'https://tinyurl.com/3fmxt65b')()':3'
 > **撕咬之夜**
 >
 > **Reign Fall**
+>
+> **Ohio**
 > 
+> **通用**
+>
 > **SOON**
 > 
 > **压力(Making)**
